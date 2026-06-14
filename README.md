@@ -1,2 +1,2 @@
-# BrightUmani
+# Bright Umani
 My Profile Setup
